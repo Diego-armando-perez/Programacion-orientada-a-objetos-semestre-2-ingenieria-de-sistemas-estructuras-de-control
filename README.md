@@ -6,22 +6,39 @@ Pequeño codigo que contiene los primeros 21 ejercicios del repaso de programaci
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 El archivo es una sencilla practica a varios conceptos basicos vistos en programacion, el codigo trae 21 diferentes situaciones problema.
 #1 Imprimir la frase hola ya se imprimir frases
+
 #2 Programa que imprima un numero
+
 #3 Programa que imprima un numero decimal
+
 #4,5,6,7 Crear un programa el cual sume, reste, multiplique y divide los numeros 1234 y 532
+
 #8 Imprimir los numeros de 1 a 3
+
 #9 Imprimir los numeros de 1 al 9
+
 #10 Imprimir los numeros del 1 al 10000
+
 #11 Imprimir los numeros del 5 al 10
+
 #12 Imprimir los numeros del 5 al 15
+
 #13 Imprimir los numeros del 5 al 15000
+
 #14 Imprimir la palabra "hola" 200 veces
+
 #15 Imprimir cuadrado de los primeros 30 numeros naturales
+
 #16 Imprima la multiplicacion de todos los primeros 20 numeros naturales
+
 #17 Imprimir el resultado de sumar los primeros 100 cuadrados
+
 #18 Lea un numero y sume los siguientes 100 digitos
+
 #19 Convertir de euros a dolares
+
 #20 Calcular el area de un rectangulo 
+
 #21 Lea dos numeros y detecte el menor
 
 🛠️ Tecnologías Utilizadas
