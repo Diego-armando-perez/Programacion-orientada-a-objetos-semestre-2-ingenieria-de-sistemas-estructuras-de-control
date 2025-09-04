@@ -5,6 +5,7 @@ Pequeño codigo que contiene los primeros 21 ejercicios del repaso de programaci
 📋 Descripción
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 El archivo es una sencilla practica a varios conceptos basicos vistos en programacion, el codigo trae 21 diferentes situaciones problema.
+
 #1 Imprimir la frase hola ya se imprimir frases
 
 #2 Programa que imprima un numero
